@@ -1,5 +1,8 @@
 // O que são vetores ou arrays
 
+/* Arrays são um tipo de lista , ou matriz de variaveis, onde cada variavel possui um indice.
+Os valores podem ser de varios tipos.
+ */
 
 // Como declarar um array : 
 
